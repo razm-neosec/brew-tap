@@ -1,4 +1,4 @@
-cask "nosqlbooster-for-mongodb" do
+cask "nosqlbooster-for-mongodb@8.1.9" do
   version "8.1.9"
   sha256 "08fe12d049fc3384ea106065012cf6eadd434354f2331a0998abde586a32ede7"
 
